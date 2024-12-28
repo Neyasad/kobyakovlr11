@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Neyasad/Kobyakovlr11/static/css/main.407a9eaf.css",
+    "main.js": "/Neyasad/Kobyakovlr11/static/js/main.99871376.js",
+    "static/media/pepperoni.png": "/Neyasad/Kobyakovlr11/static/media/pepperoni.03acec4248e9f5e84227.png",
+    "index.html": "/Neyasad/Kobyakovlr11/index.html",
+    "static/media/cart.svg": "/Neyasad/Kobyakovlr11/static/media/cart.8de7e2d6e832cdb9ad7b566325548e69.svg",
+    "main.407a9eaf.css.map": "/Neyasad/Kobyakovlr11/static/css/main.407a9eaf.css.map",
+    "main.99871376.js.map": "/Neyasad/Kobyakovlr11/static/js/main.99871376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407a9eaf.css",
+    "static/js/main.99871376.js"
+  ]
+}
