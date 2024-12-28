@@ -1,0 +1,27 @@
+.pizBlocks{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	margin:  0 20px;
+}
+.name {
+	padding-top: 20px;
+}
+.description {
+	color: grey;
+	text-align: center;
+    font-size: 18px;
+	width: 300px;
+}
+.img {
+	max-width: 300px;
+    height: auto;
+}
+.count {
+    display: flex;
+	justify-content: space-between;
+}
+.quantity{
+    padding: 10px;
+}
